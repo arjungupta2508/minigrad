@@ -17,7 +17,7 @@ MiniGrad is an experimental automatic differentiation engine that combines a C-b
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone (https://github.com/arjungupta2508/minigrad.git)
 cd minigrad
 ```
 
